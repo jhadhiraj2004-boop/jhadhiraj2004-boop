@@ -1,16 +1,48 @@
-## Hi there 👋
+# 👋 Hi, I'm Dhiraj Kumar
 
-<!--
-**jhadhiraj2004-boop/jhadhiraj2004-boop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Final Year Electronics & Communication Engineering Student
+💻 Full Stack Developer (MERN Stack)
+🚁 Drone Systems & EMI Research Intern
+🎯 Aspiring Software Engineer
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+
+* 🔭 Currently building **MERN stack applications**
+* 🚁 Worked on **Drone Systems & EMI research**
+* 🧠 Learning **system design and backend architecture**
+* 📈 Interested in **aviation tech, drones, and scalable software**
+
+---
+
+## 🌐 Socials
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge\&logo=linkedin)](https://linkedin.com/in/YOUR_LINK)
+[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge\&logo=gmail)](mailto:jhadhiraj2004@gmail.com)
+
+---
+
+## 💻 Tech Stack
+
+![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge\&logo=java)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge\&logo=javascript)
+![React](https://img.shields.io/badge/React-blue?style=for-the-badge\&logo=react)
+![NodeJS](https://img.shields.io/badge/Node.js-green?style=for-the-badge\&logo=node.js)
+![ExpressJS](https://img.shields.io/badge/Express-black?style=for-the-badge\&logo=express)
+![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge\&logo=mongodb)
+![Tailwind](https://img.shields.io/badge/TailwindCSS-blue?style=for-the-badge\&logo=tailwindcss)
+![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge\&logo=python)
+![C](https://img.shields.io/badge/C-grey?style=for-the-badge\&logo=c)
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=radical)
+
+---
+
+## 🔥 Top Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact\&theme=radical)
